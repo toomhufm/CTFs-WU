@@ -2,7 +2,10 @@
 ## Description : 
 When I open this file in notepad, it looks very chaotic. Do you know what file it is?
 
-Bài này khá đơn giản, đề cho 1 file txt nhưng thực chất là file ảnh png. Đổi đuôi file và xem [ảnh](https://i.imgur.com/9VJx3pF.png)
+Bài này khá đơn giản, đề cho 1 file txt nhưng thực chất là file ảnh png. Đổi đuôi file và xem ảnh
+
+![image](https://user-images.githubusercontent.com/92283038/175817849-e81a1f9c-d168-4403-b86d-12ba4a8ddbeb.png)
+
 
 # For05 - Corrupt
 ## Description : It seems that this file is corrupt. Pls fix it for me!
