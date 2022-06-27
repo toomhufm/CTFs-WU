@@ -126,6 +126,7 @@ Sau đó mình sử dụng [CyberChef](https://gchq.github.io/CyberChef) để d
 $GLHNe0URoh = (100,71,104,108,73,72,82,104,97)
 $GLHNe0URoh += (87,119,103,98,50,89,103,100,71,104,108,73,71,90,115,89,87)
 $GLHNe0URoh +=(99,103,79,105,74,102,97,72,86,122,100,71,119,122,88,51,73,122,89,87,120,102,97,71,70)
+$GLHNe0URoh +=(121,90,72,48,105)
 ```
 
 Dùng CyberChef để decode ta được nửa sau của flag 
