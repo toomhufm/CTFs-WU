@@ -34,7 +34,7 @@ Tới đây mã vẫn chưa thể quét được, mình phát hiện ra 1 tool l
 Tuy nhiên file password.txt là flag.txt không có gì ở trong cả :v Làm gì dễ ăn thế :> 
 
 Còn file gen_password.py có nội dung như sau
-```python:
+```py
     def gen_Pass(key):
       password = ''
       password = hashlib.md5(str(key).encode())
@@ -53,7 +53,7 @@ Còn file gen_password.py có nội dung như sau
 Ở đây thì password được tạo ra bằng cách random với seed là thời gian hiện tại lúc chạy script. Trong đề bài có đề cập thời gian tạo password là ngày 24/4/2022 lúc khoảng 21:25 -> 21:35 giờ ICT. Từ đây mình suy ra có thể tạo lại seed là bruteforce password, một chi tiết khác là ở đây là múi giờ ICT nhưng python lại sử dụng khung giờ UCT để tạo seed nên thời gian phải là 14:25 -> 14:35 UCT. 
 
 ### Code tạo seed: 
-```python:
+```py
     from datetime import datetime, timezone
 for i in range(25,36):
     for j in range(0,60):
@@ -65,7 +65,7 @@ f.close()
 
 ```
 ### Code generate password 
-```python:
+```py
 import random
 import hashlib
 import datetime
