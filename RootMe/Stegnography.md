@@ -220,3 +220,9 @@ Còn đây là file đề cho, đơn giản là một chương trình Piet, chú
 Mình sử dụng 1 [tool này](https://www.bertnase.de/npiet/) để biên dịch chương trình. Chúng ta có output là ```key is EYJFRGTT```
 
 Chúng ta có 1 đoạn ciphertext và key, đây có vẻ như là mã hóa vinegar cipher, dùng tool online decode để lấy flag
+
+# Whitespace 
+Đoạn text có vài khoảng trắng đằng sau, ta remove hết text và dùng Whitespace Language decoder để lấy flag
+<img width="1680" alt="image" src="https://github.com/toomhufm/CTFs-WU/assets/92283038/321cccc1-d814-4e39-a553-f47c1b912fca">
+
+<img width="826" alt="image" src="https://github.com/toomhufm/CTFs-WU/assets/92283038/0f70ef30-5772-4fed-9252-d88729541a8d">
