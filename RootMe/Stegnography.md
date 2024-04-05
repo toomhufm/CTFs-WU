@@ -226,3 +226,6 @@ Chúng ta có 1 đoạn ciphertext và key, đây có vẻ như là mã hóa vin
 <img width="1680" alt="image" src="https://github.com/toomhufm/CTFs-WU/assets/92283038/321cccc1-d814-4e39-a553-f47c1b912fca">
 
 <img width="826" alt="image" src="https://github.com/toomhufm/CTFs-WU/assets/92283038/0f70ef30-5772-4fed-9252-d88729541a8d">
+
+# Noise Analysis 
+Broken download link -> không tải được file challenge.
