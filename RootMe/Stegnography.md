@@ -229,3 +229,6 @@ Chúng ta có 1 đoạn ciphertext và key, đây có vẻ như là mã hóa vin
 
 # Noise Analysis 
 Broken download link -> không tải được file challenge.
+
+# Geogre and Afred
+Challenge bằng tiếng Pháp nên không làm được
